@@ -17,7 +17,9 @@ Full Stack & Full time Developer with 6+ years of experience from childhood and 
 🥉 Test Framework: Jest, Mocha/Chai, Protractor, Jasmine
 
 ➤ Speed Optimization
+
 ✅ Website Speed Optimization
+
 ✅ Web Page Content Optimization
 
                                               
