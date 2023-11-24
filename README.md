@@ -1,8 +1,7 @@
 ![image](https://github.com/code0214/code0214/assets/142180194/b0948c6c-1995-4e21-8030-e37451423e08)
 
 
-
-❁´◡`❁ Full Stack & Full time Developer with 6+ years of experience from childhood and specialized in web development. Experienced with all stages of the development cycle for any web projects. Well-versed in major programming languages, frameworks and dev environment and Dev Tools . Strong background in project management and customer relations. ❁´◡`❁
+⭐⭐✵⭐⭐ Full Stack & Full time Developer with 6+ years of experience from childhood and specialized in web development. Experienced with all stages of the development cycle for any web projects. Well-versed in major programming languages, frameworks and dev environment and Dev Tools . Strong background in project management and customer relations. ⭐⭐✵⭐⭐
 
                                                             🔥 My Stacks 🔥
 🥇 CMS: WordPress, Shopify, Magento2, Wix, Joomla
@@ -22,5 +21,9 @@
 ✅ Website Speed Optimization
 
 ✅ Web Page Content Optimization
+
+
+![image](https://github.com/code0214/code0214/assets/142180194/07f50cd2-a9b2-4435-ba79-b38717b09bfe)
+
 
                                               
